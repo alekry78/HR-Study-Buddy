@@ -40,7 +40,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Hello Roman\Study Buddy\study-buddy\node_modules\prettier" />
     <property name="run.prettier.on.save" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -83,9 +83,13 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="811" y="349" key="SettingsEditor" timestamp="1614711662554">
+    <state x="996" y="488" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1614714624993">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="811" y="349" key="SettingsEditor/0.0.2560.1410/-1680.378.1680.1020@0.0.2560.1410" timestamp="1614711662554" />
+    <state x="996" y="488" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.2560.1410/-1680.378.1680.1020@0.0.2560.1410" timestamp="1614714624993" />
+    <state x="811" y="349" key="SettingsEditor" timestamp="1614714721817">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="811" y="349" key="SettingsEditor/0.0.2560.1410/-1680.378.1680.1020@0.0.2560.1410" timestamp="1614714721817" />
   </component>
 </project>

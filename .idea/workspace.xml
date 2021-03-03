@@ -43,6 +43,12 @@
     <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Hello Roman\Study Buddy\study-buddy\src\components\molecules" />
+      <recent name="C:\Hello Roman\Study Buddy\study-buddy\src\components\organisms" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,6 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614711642611</updated>
       <workItem from="1614711644286" duration="609000" />
+      <workItem from="1614791476115" duration="5000000" />
     </task>
     <servers />
   </component>
@@ -91,5 +98,9 @@
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="811" y="349" key="SettingsEditor/0.0.2560.1410/-1680.378.1680.1020@0.0.2560.1410" timestamp="1614714721817" />
+    <state x="943" y="317" width="672" height="678" key="search.everywhere.popup" timestamp="1614727072105">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="943" y="317" width="672" height="678" key="search.everywhere.popup/0.0.2560.1410/-1680.378.1680.1020@0.0.2560.1410" timestamp="1614727072105" />
   </component>
 </project>

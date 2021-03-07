@@ -33,7 +33,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../KAT_FER_W_09_ES6_React_Podstawy/09_Dzien_5_Warsztat" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -59,6 +59,7 @@
       <updated>1614711642611</updated>
       <workItem from="1614711644286" duration="609000" />
       <workItem from="1614791476115" duration="5000000" />
+      <workItem from="1614857287965" duration="629000" />
     </task>
     <servers />
   </component>
@@ -94,6 +95,10 @@
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="996" y="488" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.2560.1410/-1680.378.1680.1020@0.0.2560.1410" timestamp="1614714624993" />
+    <state x="1060" y="459" key="FileChooserDialogImpl" timestamp="1614865378846">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1060" y="459" key="FileChooserDialogImpl/0.0.2560.1410/-1680.378.1680.1020@0.0.2560.1410" timestamp="1614865378846" />
     <state x="811" y="349" key="SettingsEditor" timestamp="1614714721817">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>

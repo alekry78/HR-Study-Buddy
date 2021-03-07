@@ -8,6 +8,8 @@ export const theme = {
     black: '#111111',
     lightGrey: '#F7F8FA',
     darkGrey: '#737C8E',
+    darkPurple: '#C0C7D6',
+    lightPurple: '#ECEFF6',
   },
   fontSize: {
     l: '17px',

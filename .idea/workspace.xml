@@ -33,14 +33,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../KAT_FER_W_09_ES6_React_Podstawy/09_Dzien_5_Warsztat" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Hello Roman\Study Buddy\study-buddy\node_modules\prettier" />
     <property name="run.prettier.on.save" value="true" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -60,6 +60,8 @@
       <workItem from="1614711644286" duration="609000" />
       <workItem from="1614791476115" duration="5000000" />
       <workItem from="1614857287965" duration="629000" />
+      <workItem from="1615242746848" duration="67000" />
+      <workItem from="1616440302607" duration="8336000" />
     </task>
     <servers />
   </component>
@@ -95,14 +97,18 @@
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="996" y="488" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.2560.1410/-1680.378.1680.1020@0.0.2560.1410" timestamp="1614714624993" />
-    <state x="1060" y="459" key="FileChooserDialogImpl" timestamp="1614865378846">
+    <state x="1010" y="451" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1616446196028">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="1060" y="459" key="FileChooserDialogImpl/0.0.2560.1410/-1680.378.1680.1020@0.0.2560.1410" timestamp="1614865378846" />
-    <state x="811" y="349" key="SettingsEditor" timestamp="1614714721817">
+    <state x="1010" y="451" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1410/-1680.378.1680.1020@0.0.2560.1410" timestamp="1616446196028" />
+    <state x="1060" y="459" key="FileChooserDialogImpl" timestamp="1615242811901">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="811" y="349" key="SettingsEditor/0.0.2560.1410/-1680.378.1680.1020@0.0.2560.1410" timestamp="1614714721817" />
+    <state x="1060" y="459" key="FileChooserDialogImpl/0.0.2560.1410/-1680.378.1680.1020@0.0.2560.1410" timestamp="1615242811901" />
+    <state x="811" y="349" key="SettingsEditor" timestamp="1616449723711">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="811" y="349" key="SettingsEditor/0.0.2560.1410/-1680.378.1680.1020@0.0.2560.1410" timestamp="1616449723711" />
     <state x="943" y="317" width="672" height="678" key="search.everywhere.popup" timestamp="1614727072105">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>

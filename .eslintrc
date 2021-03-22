@@ -5,7 +5,8 @@
     "prettier/prettier": ["warn",
       {
         "singleQuote": true,
-        "printWidth": 150
+        "printWidth": 150,
+        "eslint-disable-next-line": false
       }
     ]
   },
